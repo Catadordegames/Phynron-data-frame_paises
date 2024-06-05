@@ -1,5 +1,5 @@
 # Paises_DataFrame
-
+## Trabalaho da faculdade Turma D3 - Materia estrutura de dados 
 ## Descrição
 
 Este projeto contém um DataFrame que inclui dados sobre diversos países, como nome, continente, população, idioma e IDH. O DataFrame é manipulado usando a biblioteca pandas em Python. As operações incluem a exibição de dados, verificação de integridade, adição e remoção de linhas, entre outras.
